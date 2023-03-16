@@ -1,5 +1,4 @@
 # MERN Full Stack App
-<br/>
 
 ## How to run locally?
 
